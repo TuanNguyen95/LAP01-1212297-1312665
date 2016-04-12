@@ -1,0 +1,22 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuanNguyen95/LAP01-1212297-1312665.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuanNguyen95/LAP01-1212297-1312665/issues"
+  },
+  "homepage": "https://github.com/TuanNguyen95/LAP01-1212297-1312665#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
